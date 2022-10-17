@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zusan. 
+- 👋 Hi, I’m Iris. 
 - 👀 I’m interested in Rubik's cube and programming. 
 - 🌱 I’m currently learning computer science for business professionals, and knowledge of business finance. 
 - 💞️ I’m looking to collaborate on any way I'm involved. 
